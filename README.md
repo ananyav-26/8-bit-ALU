@@ -19,4 +19,4 @@ An Arithmetic Logic Unit (ALU) is a crucial component of a computer processor th
 
 ## Simulation Output
 - RTL Schematic: (https://github.com/ananyav-26/4-bit-ALU/blob/80d1c85e7a35e7a52cf962bf413c27392c157591/images/ALU4_rtl.png)
-- Output Waveform: (images/ALU4_waveform.png)
+- Output Waveform: (https://github.com/ananyav-26/4-bit-ALU/blob/80d1c85e7a35e7a52cf962bf413c27392c157591/images/ALU4_waveform.png)
