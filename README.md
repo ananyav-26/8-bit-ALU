@@ -18,5 +18,5 @@ An Arithmetic Logic Unit (ALU) is a crucial component of a computer processor th
 - ModelSim: Optional simulation tool for verifying the functionality of the VHDL code.
 
 ## Simulation Output
-- RTL Schematic: (images/ALU4_rtl.png)
+- RTL Schematic: (https://github.com/ananyav-26/4-bit-ALU/blob/80d1c85e7a35e7a52cf962bf413c27392c157591/images/ALU4_rtl.png)
 - Output Waveform: (images/ALU4_waveform.png)
